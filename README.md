@@ -11,7 +11,7 @@ Hello! I am Ricky Sitorus. I am Information Technology Students on Del Institute
 ## 📖 About me
 
 * 💻 I'm a Middle Software Engineer
-* 🎓 I'm a Information Technology student (graduating in September 2023)
+* 🎓 I'm graduating from Information Technology student 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
